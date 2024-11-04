@@ -1,6 +1,6 @@
-# Informatik und Ethik - Foline
+# Informatik und Ethik - Folien 
 
-Decker Folien für eine Unterrichtseinheit zum Theman: Veröffentlichen.
+Decker Folien für eine Unterrichtseinheit zum Theman: Wissenschaftliches Veröffentlichen.
 
 [Decker-Doku](https://decker.cs.tu-dortmund.de/decks/decker/manual/)
 
