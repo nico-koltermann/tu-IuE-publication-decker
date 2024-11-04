@@ -44,6 +44,7 @@ jobs:
       - name: Check folder
         run: echo "ls" 
       - name: Build  decker
+        working-directory: tu-IuE-publication-decker
         run: decker
       - name: Checkout
         uses: actions/checkout@v4
