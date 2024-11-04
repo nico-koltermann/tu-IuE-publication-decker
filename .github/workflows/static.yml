@@ -30,17 +30,15 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Make bin
-        run: mkdir -p /root/.local/bin
+        run: mkdir -p $HOME/.local/bin
       - name: Get Decker
-        run: wget -P /root/.local/bin "https://decker.cs.tu-dortmund.de/downloads/linux/14/decker"
+        run: wget -P $HOME/.local/bin "https://decker.cs.tu-dortmund.de/downloads/linux/14/decker"
       - name: Create bashrc
         run: touch ~/.bashrc
       - name: Create PATH var
         run: echo PATH=$HOME/.local/bin:$PATH > ~/.bashrc
       - name: source bash
         run: source ~/.bashrc
-      - name: Add to PATH
-        run: export PATH=/root/.local/bin/decker:$PATH
       - name: chmod decker
         run: chmod +x /root/.local/bin/decker
       - name: Build  decker
