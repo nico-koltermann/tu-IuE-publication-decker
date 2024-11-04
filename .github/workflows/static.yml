@@ -42,7 +42,7 @@ jobs:
       - name: chmod decker
         run: chmod +x $HOME/.local/bin/decker
       - name: Check folder
-        run: ls 
+        run: echo "ls" 
       - name: Build  decker
         run: decker
       - name: Checkout
