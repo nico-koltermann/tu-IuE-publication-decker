@@ -29,6 +29,8 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout
+        uses: actions/checkout@v4
       - name: Make bin
         run: mkdir -p $HOME/.local/bin
       - name: Get Decker
@@ -44,8 +46,6 @@ jobs:
       - name: Build  decker
         working-directory: ..
         run: decker
-      - name: Checkout
-        uses: actions/checkout@v4
       - name: Setup Pages
         uses: actions/configure-pages@v5
       - name: Upload artifact
