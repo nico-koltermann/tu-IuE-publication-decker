@@ -5,5 +5,5 @@ subtitle:     Unterricht - Publikation
 
 # Organisation
 
-[Slids](./slided/main.html)
+[Slides](./slides/main-deck.html)
 
