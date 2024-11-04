@@ -44,7 +44,6 @@ jobs:
       - name: chmod decker
         run: chmod +x $HOME/.local/bin/decker
       - name: Build  decker
-        working-directory: ..
         run: decker
       - name: Setup Pages
         uses: actions/configure-pages@v5
