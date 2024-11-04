@@ -1,0 +1,17 @@
+
+
+pages:
+  image: node:latest
+  before_script:
+    - mkdir -p /root/.local/bin
+    - wget -P /root/.local/bin "https://decker.cs.tu-dortmund.de/downloads/linux/14/decker"
+    - touch ~/.bashrc
+    - echo PATH=$HOME/.local/bin:$PATH > ~/.bashrc
+    - source ~/.bashrc
+    - export PATH=/root/.local/bin/decker:$PATH
+    - chmod +x /root/.local/bin/decker
+  script:
+    - decker
+  artifacts:
+    paths:
+      - public
