@@ -40,11 +40,10 @@ jobs:
       - name: source bash
         run: source ~/.bashrc
       - name: chmod decker
+        working-directory: data
         run: chmod +x $HOME/.local/bin/decker
-      - name: Check folder
-        run: echo "ls" 
       - name: Build  decker
-        working-directory: tu-IuE-publication-decker
+        working-directory: ..
         run: decker
       - name: Checkout
         uses: actions/checkout@v4
