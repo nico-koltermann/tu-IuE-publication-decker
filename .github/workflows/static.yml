@@ -31,7 +31,6 @@ jobs:
     steps:
       - name: Get Decker
         run: git clone https://github.com/decker-edu/decker.git
-      - git clone https://github.com/decker-edu/decker.git
       - name: Move in Decker Folder
         run: cd decker
       - name: Installl Decker 
