@@ -40,7 +40,7 @@ jobs:
       - name: source bash
         run: source ~/.bashrc
       - name: chmod decker
-        run: chmod +x /root/.local/bin/decker
+        run: chmod +x $HOME/.local/bin/decker
       - name: Build  decker
         run: decker
       - name: Checkout
