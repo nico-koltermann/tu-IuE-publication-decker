@@ -1,6 +1,6 @@
-# GET racing Decker Introduction
+# Informatik und Ethik - Foline
 
-Decker Folien für das Einführungsprogramm von neuen DV Team Mitgliedern.
+Decker Folien für eine Unterrichtseinheit zum Theman: Veröffentlichen.
 
 [Decker-Doku](https://decker.cs.tu-dortmund.de/decks/decker/manual/)
 
