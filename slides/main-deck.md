@@ -89,7 +89,7 @@ Stanford [AIIndex](https://aiindex.stanford.edu/ai-index-report-2023/)
 - Veröffentlichung
 ::: 
 
-![Publication Process: [Source](https://symbiosisonlinepublishing.com/peerreview-chart.php) ](../data/pub.png){ width=500px }
+![Publication Process: [Source](https://symbiosisonlinepublishing.com/peerreview-chart.php) ](https://md.fachschaften.org/uploads/1f12c3ed-1f6d-48ab-8314-2ec084d6c613.png){ width=500px }
 ::: 
 
 
@@ -108,7 +108,7 @@ Stanford [AIIndex](https://aiindex.stanford.edu/ai-index-report-2023/)
     -  In offenen Peer-Review-Verfahren sind die Identitäten der Autoren und der Gutachter bekannt und die Reviews können öffentlich zugänglich sein.
 :::
 
-![Peer Review: [Source](https://tianyeli.github.io/images/reviewer_meme.png)](../data/peer.png)
+![Peer Review: [Source](https://tianyeli.github.io/images/reviewer_meme.png)](https://md.fachschaften.org/uploads/e7c24bd5-c214-4662-af8f-114e7fe3d840.png)
 :::
 
 
@@ -126,7 +126,7 @@ Wer ist berechtigt?
 - Leitung einer Institution oder Organisationseinheit, in der die Publikation entstanden ist
 :::
 
-![Authors per paper: [Source](https://link.springer.com/article/10.1007/s11192-024-04928-1)](../data/authors.png){ width=500px }
+![Authors per paper: [Source](https://link.springer.com/article/10.1007/s11192-024-04928-1)](https://md.fachschaften.org/uploads/81f7562a-27b5-41a1-87aa-fd1096ff8afe.png){ width=500px }
 :::
 
 # Peer-Reviews
@@ -166,11 +166,11 @@ Wie lange dauert es in der Regel in einem Fachbereich, bis eine Zeitschrift eine
 
 # Herausgeber Dilemma
 
-::: center
+::: { .center  .font }
 Der Herausgeber einer internationalen Zeitschrift hat mein Paper unter der Bedingung akzeptiert, dass ich einige Quellen ändere (hauptsächlich in der Literaturübersicht), um mehr Verweise auf seine eigene Zeitschrift einzufügen, einschließlich eines seiner eigenen Artikel. Inhaltlich fügt dies dem Artikel keinen Mehrwert hinzu und mindert ihn auch nicht. Was soll ich tun?
 :::
 
-::: { .quiz .font }
+::: { .quiz .font2 }
 - [X] Ich verstehe die Gründe hinter den Anfragen und ändere daher meine Quellen, wobei ich die gleichen Daten und Schlussfolgerungen beibehalte.
     - 
 - [X] Ich bitte den Herausgeber dennoch, mein Paper ohne Änderungen zu akzeptieren, da ich der Meinung bin, dass die aktuellen Quellen am besten geeignet sind.
@@ -209,7 +209,6 @@ Welches Forschungsfeld hat Weltweit die meisten Veröffentlichungen?
 - [AIIndex](https://aiindex.stanford.edu/ai-index-report-2023/)
 - [Veröffentlichung Statistik 1](https://ncses.nsf.gov/pubs/nsb202333/publication-output-by-region-country-or-economy-and-by-scientific-field)
 - [Veröffentlichung Statistik 2](https://wordsrated.com/open-access-publishing-statistics/)
-
 
 <div>
 <iframe src="https://ombudsman-fuer-die-wissenschaft.de/wp-content/uploads/2019/01/Modul_Veroeffentlichungsprozess.pdf" width="100%" height="500px"></iframe> [Link](https://ombudsman-fuer-die-wissenschaft.de/wp-content/uploads/2019/01/Modul_Veroeffentlichungsprozess.pdf)
