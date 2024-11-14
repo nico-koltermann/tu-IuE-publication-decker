@@ -95,6 +95,8 @@ Stanford [AIIndex](https://aiindex.stanford.edu/ai-index-report-2023/)
 
 # Begutachtung
 
+::: font
+
 ::: columns-60-40
 
 ::: incremental
@@ -109,6 +111,8 @@ Stanford [AIIndex](https://aiindex.stanford.edu/ai-index-report-2023/)
 :::
 
 ![Peer Review: [Source](https://tianyeli.github.io/images/reviewer_meme.png)](https://md.fachschaften.org/uploads/e7c24bd5-c214-4662-af8f-114e7fe3d840.png){ width=300px }  
+:::
+
 :::
 
 
