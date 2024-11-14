@@ -34,7 +34,7 @@ Wie viele wissenschaftliche Veröffentlichungen gibt es Jährlich weltweit?
     - 
 - [ ] ~1.245.000
     - 
-- [X] ~5.140.000
+- [X] ~3.340.000
     - 
 :::
 
@@ -171,6 +171,23 @@ Der Herausgeber einer internationalen Zeitschrift hat mein Paper unter der Bedin
 
 > Übernommen aus der Dilemma-App
 
+# Was denkt Ihr? 
+
+::: center
+Welches Forschungsfeld hat Weltweit die meisten Veröffentlichungen?
+:::
+
+::: {.quiz }
+- [X] Gesundheitswissenschaft
+    - 
+- [ ] Informatik
+    - 
+- [ ] Mathematik
+    - 
+- [ ] Sozialwissenschaften
+    - 
+:::
+
 # Quellen: 
 
 ::: columns-50-50
@@ -178,6 +195,9 @@ Der Herausgeber einer internationalen Zeitschrift hat mein Paper unter der Bedin
 - [Dilemma App](https://www.eur.nl/en/about-eur/policy-and-regulations/integrity/research-integrity/dilemma-game)
 - [Peer Reviews](https://authorservices.wiley.com/Reviewers/journal-reviewers/what-is-peer-review/types-of-peer-review.html)
 - [AIIndex](https://aiindex.stanford.edu/ai-index-report-2023/)
+- [Veröffentlichung Statistik 1](https://ncses.nsf.gov/pubs/nsb202333/publication-output-by-region-country-or-economy-and-by-scientific-field)
+- [Veröffentlichung Statistik 2](https://wordsrated.com/open-access-publishing-statistics/)
+
 
 <div>
 <iframe src="https://ombudsman-fuer-die-wissenschaft.de/wp-content/uploads/2019/01/Modul_Veroeffentlichungsprozess.pdf" width="100%" height="500px"></iframe> [Link](https://ombudsman-fuer-die-wissenschaft.de/wp-content/uploads/2019/01/Modul_Veroeffentlichungsprozess.pdf)
