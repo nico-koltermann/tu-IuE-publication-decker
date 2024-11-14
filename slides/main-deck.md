@@ -3,7 +3,43 @@ title:        KI und Ethik
 subtitle:     Unterricht - Publikation
 ---
 
-# _
+
+# Was denkt Ihr? 
+
+::: center
+Wie viele Akademische Fachzeitschriften gibt es?  
+:::
+
+::: {.quiz }
+- [ ] ~300
+    - 
+- [X] ~46.000
+    - 
+- [ ] ~2.100
+    - 
+- [ ] ~22.000
+    - 
+:::
+
+# Was denkt Ihr? 
+
+::: center
+Wie viele wissenschaftliche Veröffentlichungen gibt es Jährlich weltweit?
+:::
+
+::: {.quiz }
+- [ ] ~250.000
+    - 
+- [ ] ~45.000
+    - 
+- [ ] ~1.245.000
+    - 
+- [X] ~5.140.000
+    - 
+:::
+
+
+# Diskussion
 
 ::: center 
 __Warum sollten Forschungsergebnisse veröffentlicht werden?__
@@ -29,6 +65,18 @@ Eine gute wissenschaftliche Praxis schließt ein:
 - die angemessene Nennung aller am Forschungsprozess beteiligten Mitarbeiterinnen und Mitarbeiter.“
 :::
 
+# Veröffentlichungsform
+
+::: columns-40-60
+- Fachzeitschriften (Journals)
+- Konferenzen
+- Fachbücher
+- Technische Berichte und Preprints
+
+![](https://md.fachschaften.org/uploads/c320a661-f633-4b4a-a56f-45c8c11cc808.png){width=600px} <br>
+Stanford [AIIndex](https://aiindex.stanford.edu/ai-index-report-2023/)
+:::
+
 # Ablauf des Publikationsprozesses
 
 Viele Fachzeitschriften erläutern auf ihren
@@ -42,6 +90,20 @@ Internetseiten sehr detailliert die einzelnen Schritte.
 - Veröffentlichung
 ::: 
 
+
+# Begutachtung
+
+::: incremental
+- Single-Blind Review
+    - Die Identität der Autoren ist den Gutachtern bekannt, aber die Gutachter bleiben anonym.
+- Double-Blind Review
+    - Sowohl die Gutachter als auch die Autoren bleiben anonym.
+- Triple-Blind Review
+    - In dieser Variante bleiben die Identitäten der Autoren und Gutachter auch dem Editor gegenüber anonym.
+- Open Review 
+    -  In offenen Peer-Review-Verfahren sind die Identitäten der Autoren und der Gutachter bekannt und die Reviews können öffentlich zugänglich sein.
+:::
+
 # Autorschaft
 
 Wer ist berechtigt? 
@@ -54,60 +116,70 @@ Wer ist berechtigt?
 - Leitung einer Institution oder Organisationseinheit, in der die Publikation entstanden ist
 :::
 
-# Spezielle Konfliktbereiche
 
-
-# Quiz 1
+# Peer-Reviews
 
 ::: center
-Prozess
+Ein Wissenschaftler sendet seine Arbeit an ein Journal und wird peer-reviewed. Ihm ist bewusst, dass nur wenige ihm bekannte Leute für das Review-Verfahren
+in Frage kommen. Die Kritik an seiner Arbeit hält er für nicht sinnvoll. Erst nachdem ihm dies auf die Nerven ging und er die Kritik an der Kritik explizit äußerte, bekam er eine Zusage und zwar unmittelbar danach. Welches Problem entsteht in der gegebenen Situation?
 :::
 
 ::: {.quiz }
-- [ ] 1
-    - Falsch.
-- [ ] 2
-    - Falsch.
-- [X] 3
-    - Korrekt!
-- [ ] 4
-    - Falsch.
+- [ ] Der Autor bekommt das Gefühl, sein Beitrag zur Forschung wird nicht ernst genommen oder aus persönlichen Gründen abgelehnt.
+    - 
+- [ ] Der Autor bekommt das Gefühl, er hat keinen sinnvollen Beitrag geleistet.
+    - 
+- [X] Der Autor zweifelt an seiner Arbeit!
+    - 
+- [ ] Die Fachzeitschrift schädigt ihren Ruf.
+    - .
 :::
 
-# Quiz 2
+# Reviewdauer
 
 ::: center
-Prozess
+Wie lange dauert es in der Regel in einem Fachbereich, bis eine Zeitschrift einen Artikel im Peer-Review gelesen hat und annimmt?
 :::
 
 ::: {.quiz }
-- [ ] 1
-    - Falsch.
-- [ ] 2
-    - Falsch.
-- [X] 3
-    - Korrekt!
-- [ ] 4
-    - Falsch.
+- [ ] 5 Wochen.
+    - 
+- [X] Etliche Monate.
+    - 
+- [ ] Ein Jahr.
+    - 
+- [ ] Unendlich lange ...
+    - 
 :::
 
-# Quiz 3
+# Herausgeber Dilemma
 
 ::: center
-Prozess
+Der Herausgeber einer internationalen Zeitschrift hat mein Paper unter der Bedingung akzeptiert, dass ich einige Quellen ändere (hauptsächlich in der Literaturübersicht), um mehr Verweise auf seine eigene Zeitschrift einzufügen, einschließlich eines seiner eigenen Artikel. Inhaltlich fügt dies dem Artikel keinen Mehrwert hinzu und mindert ihn auch nicht. Was soll ich tun?
 :::
 
-::: {.quiz }
-- [ ] 1
-    - Falsch.
-- [ ] 2
-    - Falsch.
-- [X] 3
-    - Korrekt!
-- [ ] 4
-    - Falsch.
+::: { .quiz .font }
+- [X] Ich verstehe die Gründe hinter den Anfragen und ändere daher meine Quellen, wobei ich die gleichen Daten und Schlussfolgerungen beibehalte.
+    - 
+- [X] Ich bitte den Herausgeber dennoch, mein Paper ohne Änderungen zu akzeptieren, da ich der Meinung bin, dass die aktuellen Quellen am besten geeignet sind.
+    - 
+- [X] Ich bin mit dieser Art von „Erpressung“ nicht einverstanden und ziehe mein Paper zurück, bevor ich ein anderes Journal anspreche.
+    - 
+- [X] Ich sage dem Herausgeber, dass ich zustimme. Ich füge alle vorgeschlagenen Artikel hinzu, mit Ausnahme eines: des Artikels des Herausgebers.
+    - 
 :::
+
+> Übernommen aus der Dilemma-App
 
 # Quellen: 
 
-<iframe src="https://ombudsman-fuer-die-wissenschaft.de/wp-content/uploads/2019/01/Modul_Veroeffentlichungsprozess.pdf" width="100%" height="500px"></iframe>
+::: columns-50-50
+
+- [Dilemma App](https://www.eur.nl/en/about-eur/policy-and-regulations/integrity/research-integrity/dilemma-game)
+- [Peer Reviews](https://authorservices.wiley.com/Reviewers/journal-reviewers/what-is-peer-review/types-of-peer-review.html)
+- [AIIndex](https://aiindex.stanford.edu/ai-index-report-2023/)
+
+<div>
+<iframe src="https://ombudsman-fuer-die-wissenschaft.de/wp-content/uploads/2019/01/Modul_Veroeffentlichungsprozess.pdf" width="100%" height="500px"></iframe> [Link](https://ombudsman-fuer-die-wissenschaft.de/wp-content/uploads/2019/01/Modul_Veroeffentlichungsprozess.pdf)
+</div>
+:::
