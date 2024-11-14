@@ -108,7 +108,7 @@ Stanford [AIIndex](https://aiindex.stanford.edu/ai-index-report-2023/)
     -  In offenen Peer-Review-Verfahren sind die Identitäten der Autoren und der Gutachter bekannt und die Reviews können öffentlich zugänglich sein.
 :::
 
-![Peer Review: [Source](https://tianyeli.github.io/images/reviewer_meme.png)](https://md.fachschaften.org/uploads/e7c24bd5-c214-4662-af8f-114e7fe3d840.png)
+![Peer Review: [Source](https://tianyeli.github.io/images/reviewer_meme.png)](https://md.fachschaften.org/uploads/e7c24bd5-c214-4662-af8f-114e7fe3d840.png){ width=300px }  
 :::
 
 
@@ -116,6 +116,7 @@ Stanford [AIIndex](https://aiindex.stanford.edu/ai-index-report-2023/)
 
 Wer ist berechtigt? 
 
+::: font
 ::: columns-60-40
 
 ::: incremental
@@ -128,8 +129,11 @@ Wer ist berechtigt?
 
 ![Authors per paper: [Source](https://link.springer.com/article/10.1007/s11192-024-04928-1)](https://md.fachschaften.org/uploads/81f7562a-27b5-41a1-87aa-fd1096ff8afe.png){ width=500px }
 :::
+:::
 
 # Peer-Reviews
+
+::: font
 
 ::: center
 Ein Wissenschaftler sendet seine Arbeit an ein Journal und wird peer-reviewed. Ihm ist bewusst, dass nur wenige ihm bekannte Leute für das Review-Verfahren
@@ -145,6 +149,8 @@ in Frage kommen. Die Kritik an seiner Arbeit hält er für nicht sinnvoll. Erst 
     - 
 - [ ] Die Fachzeitschrift schädigt ihren Ruf.
     - .
+:::
+
 :::
 
 # Reviewdauer
