@@ -79,8 +79,7 @@ Stanford [AIIndex](https://aiindex.stanford.edu/ai-index-report-2023/)
 
 # Ablauf des Publikationsprozesses
 
-Viele Fachzeitschriften erläutern auf ihren
-Internetseiten sehr detailliert die einzelnen Schritte.
+::: columns-40-60
 
 ::: incremental
 - Ersteinreichung
@@ -90,8 +89,13 @@ Internetseiten sehr detailliert die einzelnen Schritte.
 - Veröffentlichung
 ::: 
 
+![Publication Process: [Source](https://symbiosisonlinepublishing.com/peerreview-chart.php) ](../data/pub.png){ width=500px }
+::: 
+
 
 # Begutachtung
+
+::: columns-60-40
 
 ::: incremental
 - Single-Blind Review
@@ -104,18 +108,26 @@ Internetseiten sehr detailliert die einzelnen Schritte.
     -  In offenen Peer-Review-Verfahren sind die Identitäten der Autoren und der Gutachter bekannt und die Reviews können öffentlich zugänglich sein.
 :::
 
+![Peer Review: [Source](https://tianyeli.github.io/images/reviewer_meme.png)](../data/peer.png)
+:::
+
+
 # Autorschaft
 
 Wer ist berechtigt? 
 
+::: columns-60-40
+
 ::: incremental
-- Verantwortung für die Einwerbung der Förderungsmittel,
-- Beitrag wichtiger Untersuchungsmaterialien,
-- Unterweisung von Mitautoren in bestimmten Methoden,
-- Beteiligung an der Datensammlung und -zusammenstellung,
+- Verantwortung für die Einwerbung der Förderungsmittel
+- Beitrag wichtiger Untersuchungsmaterialien
+- Unterweisung von Mitautoren in bestimmten Methoden
+- Beteiligung an der Datensammlung und -zusammenstellung
 - Leitung einer Institution oder Organisationseinheit, in der die Publikation entstanden ist
 :::
 
+![Authors per paper: [Source](https://link.springer.com/article/10.1007/s11192-024-04928-1)](../data/authors.png){ width=500px }
+:::
 
 # Peer-Reviews
 
