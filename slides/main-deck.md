@@ -3,33 +3,59 @@ title:        KI und Ethik
 subtitle:     Unterricht - Publikation
 ---
 
-# Kriterien
+# _
 
-In vielen Fällen verlangen die Herausgeber der
-Zeitschriften eine Bestätigung bei der Ersteinreichung
-eines Manuskripts zu:
-- es handelt sich um ein noch nicht veröffentlichtes Werk,
-- die Daten wurden noch nicht an anderer Stelle
-veröffentlicht,
-- das Manuskript wurde nicht gleichzeitig bei einer
-anderen Zeitschrift eingereicht (Vermeidung von
-Doppelpublikationen).
+::: center 
+__Warum sollten Forschungsergebnisse veröffentlicht werden?__
+:::
 
+<br>
 
-# Prozess
+<br>
+
+::: center 
+__Was sollte man dabei beachten?__ 
+::: 
+
+# Wissenschaftliche Praxis
+
+Eine gute wissenschaftliche Praxis schließt ein:
+
+::: incremental
+- die nachvollziehbare Beschreibung der angewandten Methode […];
+- die vollständige Dokumentation aller im Forschungsprozess erhobenen und für die Veröffentlichung relevanten Daten;
+- eine nachprüfbare Darstellung der Forschungsergebnisse;
+- Aufweis aller einschlägigen verwendeten Informationsquellen;
+- die angemessene Nennung aller am Forschungsprozess beteiligten Mitarbeiterinnen und Mitarbeiter.“
+:::
+
+# Ablauf des Publikationsprozesses
 
 Viele Fachzeitschriften erläutern auf ihren
 Internetseiten sehr detailliert die einzelnen Schritte.
 
+::: incremental
 - Ersteinreichung
 - Begutachtung
 - Überarbeitung
 - Endgültige Annahme
 - Veröffentlichung
+::: 
 
-Nach Erscheinen des Artikels können „Fehler und
-Irrtümer“ veröffentlicht und korrigiert werden durch
-ein Erratum oder Corrigendum
+# Autorschaft
+
+Wer ist berechtigt? 
+
+::: incremental
+- Verantwortung für die Einwerbung der Förderungsmittel,
+- Beitrag wichtiger Untersuchungsmaterialien,
+- Unterweisung von Mitautoren in bestimmten Methoden,
+- Beteiligung an der Datensammlung und -zusammenstellung,
+- Leitung einer Institution oder Organisationseinheit, in der die Publikation entstanden ist
+:::
+
+# Spezielle Konfliktbereiche
+
 
 # Quiz 1
 
