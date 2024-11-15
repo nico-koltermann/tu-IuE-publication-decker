@@ -124,11 +124,11 @@ Wer ist berechtigt?
 ::: columns-60-40
 
 ::: incremental
-- Verantwortung für die Einwerbung der Förderungsmittel
 - Beitrag wichtiger Untersuchungsmaterialien
 - Unterweisung von Mitautoren in bestimmten Methoden
 - Beteiligung an der Datensammlung und -zusammenstellung
 - Leitung einer Institution oder Organisationseinheit, in der die Publikation entstanden ist
+- Verantwortung für die Einwerbung der Förderungsmittel
 :::
 
 ![Authors per paper: [Source](https://link.springer.com/article/10.1007/s11192-024-04928-1)](https://md.fachschaften.org/uploads/81f7562a-27b5-41a1-87aa-fd1096ff8afe.png){ width=500px }
