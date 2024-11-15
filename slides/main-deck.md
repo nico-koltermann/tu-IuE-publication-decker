@@ -7,7 +7,7 @@ subtitle:     Unterricht - Publikation
 # Was denkt Ihr? 
 
 ::: center
-Wie viele Akademische Fachzeitschriften gibt es?  
+Wie viele akademische Fachzeitschriften gibt es?  
 :::
 
 ::: {.quiz }
@@ -74,7 +74,7 @@ Eine gute wissenschaftliche Praxis schließt ein:
 - Technische Berichte und Preprints
 
 ![](https://md.fachschaften.org/uploads/c320a661-f633-4b4a-a56f-45c8c11cc808.png){width=600px} <br>
-Stanford [AIIndex](https://aiindex.stanford.edu/ai-index-report-2023/)
+Stanford [AI-Index](https://aiindex.stanford.edu/ai-index-report-2023/)
 :::
 
 # Ablauf des Publikationsprozesses
@@ -196,7 +196,7 @@ Der Herausgeber einer internationalen Zeitschrift hat mein Paper unter der Bedin
 # Was denkt Ihr? 
 
 ::: center
-Welches Forschungsfeld hat Weltweit die meisten Veröffentlichungen?
+Welches Forschungsfeld hat weltweit die meisten Veröffentlichungen?
 :::
 
 ::: {.quiz }
