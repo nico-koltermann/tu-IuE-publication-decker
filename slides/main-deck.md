@@ -58,11 +58,11 @@ __Was sollte man dabei beachten?__
 Eine gute wissenschaftliche Praxis schließt ein:
 
 ::: incremental
-- die nachvollziehbare Beschreibung der angewandten Methode […];
-- die vollständige Dokumentation aller im Forschungsprozess erhobenen und für die Veröffentlichung relevanten Daten;
-- eine nachprüfbare Darstellung der Forschungsergebnisse;
-- Aufweis aller einschlägigen verwendeten Informationsquellen;
-- die angemessene Nennung aller am Forschungsprozess beteiligten Mitarbeiterinnen und Mitarbeiter.“
+- Die nachvollziehbare Beschreibung der angewandten Methode […]
+- Die vollständige Dokumentation aller im Forschungsprozess erhobenen und für die Veröffentlichung relevanten Daten
+- Eine nachprüfbare Darstellung der Forschungsergebnisse
+- Aufweis aller einschlägigen verwendeten Informationsquellen
+- Die angemessene Nennung aller am Forschungsprozess beteiligten Mitarbeiterinnen und Mitarbeiter
 :::
 
 # Veröffentlichungsform
