@@ -1,8 +1,7 @@
 ---
-title:        KI und Ethik
+title:        Informatik und Ethik
 subtitle:     Unterricht - Publikation
 ---
-
 
 # Was denkt Ihr? 
 
@@ -176,7 +175,7 @@ Wie lange dauert es in der Regel in einem Fachbereich, bis eine Zeitschrift eine
 
 # Herausgeber Dilemma
 
-::: { .center  .font }
+::: { .center  .font2 }
 Der Herausgeber einer internationalen Zeitschrift hat mein Paper unter der Bedingung akzeptiert, dass ich einige Quellen ändere (hauptsächlich in der Literaturübersicht), um mehr Verweise auf seine eigene Zeitschrift einzufügen, einschließlich eines seiner eigenen Artikel. Inhaltlich fügt dies dem Artikel keinen Mehrwert hinzu und mindert ihn auch nicht. Was soll ich tun?
 :::
 
@@ -224,3 +223,10 @@ Welches Forschungsfeld hat weltweit die meisten Veröffentlichungen?
 <iframe src="https://ombudsman-fuer-die-wissenschaft.de/wp-content/uploads/2019/01/Modul_Veroeffentlichungsprozess.pdf" width="100%" height="500px"></iframe> [Link](https://ombudsman-fuer-die-wissenschaft.de/wp-content/uploads/2019/01/Modul_Veroeffentlichungsprozess.pdf)
 </div>
 :::
+
+# Decker:
+
+- [Documentation](https://decker.cs.tu-dortmund.de/decks/decker/manual//index.html)
+- [Slides](https://nico-koltermann.github.io/tu-IuE-publication-decker/)
+- [Repository](https://github.com/nico-koltermann/tu-IuE-publication-decker)
+
