@@ -1,6 +1,7 @@
 ---
 title:        Informatik und Ethik
 subtitle:     Unterricht - Publikation
+author:       Gerrit und Nico
 ---
 
 # Was denkt Ihr? 
